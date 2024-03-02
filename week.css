@@ -1,0 +1,21 @@
+#first{
+    width: 30%;
+    height: 30%; 
+    background: radial-gradient(white,rgb(77, 213, 237));
+    border: 1px solid black;
+    margin: 0 auto;
+}
+#second{
+    width: 30%;
+    height: 30%;
+    background:linear-gradient(white,bule) ;
+
+
+}
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: antiquewhite;
+}
